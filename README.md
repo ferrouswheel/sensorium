@@ -3,6 +3,9 @@ sensorium
 
 KiwiBurn Art Project 2014
 
+ - [See a photo of it on flickr](https://www.flickr.com/photos/80568331@N04/12169162466/in/set-72157640193170035).
+ - [Here is a video of it in operation during the build in late 2013](https://www.youtube.com/watch?v=vb2hKMwwwJU&feature=youtu.be)
+
 I had a great ambition to blog about the construction of this, but
 time constraints meant I was too busy just trying to make things work.
 
