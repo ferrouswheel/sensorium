@@ -1,5 +1,8 @@
 *.py[cod]
 
+*.swp
+*.un~
+
 # C extensions
 *.so
 
